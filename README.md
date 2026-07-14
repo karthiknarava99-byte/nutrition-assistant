@@ -191,7 +191,15 @@ Then serve the `build/` folder with Express or any static host (Vercel, Netlify,
 . Bula Sudhishna - Member
 
 ---
+## 🔗 Demo Video Link
 
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1nAcw7Nl5iVvktTswYsNk1iE9-nsGD6p0/view?usp=drivesdk)
+
+## 🌐 Project Link
+
+[🚀 Open Nutrition Assistant](https://nutrition-assistant-kappa.vercel.app/)
+
+---
 ##  📞 Support
   For Questions or Issues, Please open a GitHub issue or Contact the author directly.
 
