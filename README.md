@@ -184,11 +184,11 @@ Then serve the `build/` folder with Express or any static host (Vercel, Netlify,
 ---
 
 ##  👤 Authors
-. Narava Durga Srinivasa Rao - Team Lead
-. Ganta Bhargav Teja - Member
-. Nadisetti Durga Prasad - Member
-. Pappu Syam Veere Venkata Kumar - Member
-. Bula Sudhishna - Member
+* Narava Durga Srinivasa Rao - Team Lead
+* Ganta Bhargav Teja - Member
+* Nadisetti Durga Prasad - Member
+* Pappu Syam Veere Venkata Kumar - Member
+* Bula Sudhishna - Member
 
 ---
 ## 🔗 Demo Video Link
